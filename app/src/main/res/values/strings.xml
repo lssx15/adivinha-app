@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Advinha</string>
+    <string name="button">Calcular</string>
+</resources>
